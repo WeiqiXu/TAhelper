@@ -435,7 +435,7 @@ int main (int argc, char** argv)
 								boost::thread t3(display, "/home/turtlebot/Desktop/background/arrive_frog.jpeg");
 								sleep(1);
 								// start follower mode
-								system("roslaunch hw5 follower_1.launch");
+								system("roslaunch turtlebot_follower follower.launch");
 								//after arrive at the place, look for TA again
 								for (i=0; i<5;i++){
 									ros::spinOnce();
