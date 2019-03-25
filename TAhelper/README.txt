@@ -42,3 +42,12 @@ Note that:
 1. The source code is written up to only take bright yellow color patch as the homework marker. To change the color or want to use in a new environment, color re-calibration is needed. The RGB values and the corresponding YUV values need to be stored in colors.txt file.
 2. The map for SLAM need to be saved in my_map.png For more details, please refer to http://wiki.ros.org/turtlebot_navigation/Tutorials
 3. The follower.launch file is in the turtlebot_follower package.
+
+
+More resource:
+1. Project Report: 
+https://drive.google.com/file/d/14J3etQ-e5JVjTq51vQssY4_AT0SDQvZ_/view?usp=sharing
+2. Video demos: 
+https://youtu.be/6FoiRutjnbI
+https://youtu.be/ZW96kChgUkw
+ 
